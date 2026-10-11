@@ -6,7 +6,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge)](LICENSE)
+[![License: Custom](https://img.shields.io/badge/License-Proprietary%20%2F%20Custom-orange.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
   <b>Ever wondered if that 4:00 PM cold brew is going to ruin your sleep tonight?</b><br>
