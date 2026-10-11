@@ -86,13 +86,9 @@ Cafno is built to be ultra-lean with minimal external package bloat:
 
 ## 🚀 Getting Started
 
-### Prerequisites
-* Flutter SDK (3.27+ recommended)
-* Dart 3.0+
-
 ### Installation & Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/cafno.git
-   cd cafno
+**Download The APK for Android no IOS install CURRENTLY**
+### 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to open an issue or submit a pull request if you want to help make Cafno even better.
